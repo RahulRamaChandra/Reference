@@ -1,0 +1,8 @@
+Step-1 Create a new enviornment in Anaconda prompt
+        conda create -n env_name python==3.10  (Mentioning a pyhton version is optional but always a good practice)
+        
+        Check all enviornments list we created so far in Anaconda prompt
+                conda env list
+        
+        Acivate the newly created enviornment in Anaconda prompt
+                conda activate env_name
