@@ -11,3 +11,5 @@ Push an existing repository from command line
         git remote add origin https://github.com/RahulRamaChandra/delete.git
         git branch -M main
         git push -u origin main
+        
+        "git fetch" followed by "git merge origin/main"
