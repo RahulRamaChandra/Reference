@@ -1,0 +1,24 @@
+STEPS FOR DJANGO PROJECT
+*************************
+Open the anaconda prompt
+0
+Choose the directory
+
+Create the virtual enviornment
+    "conda create -n django pyhton == 3.10"
+    
+Activate the virtual enviornment
+    "conda activate django"
+    
+Install the django
+    "pip install django"
+    
+Create the django project
+    "django-admin startproject example_demo"
+    
+To run the django application
+    Open the terminal in the IDE(VS Code) "python manage.py runserver"
+    
+To start a new application
+    "pyhton manage.py startapp polls"
+    
