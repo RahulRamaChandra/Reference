@@ -20,5 +20,7 @@ To run the django application
     Open the terminal in the IDE(VS Code) "python manage.py runserver"
     
 To start a new application
-    "pyhton manage.py startapp polls"
+    "python manage.py startapp polls"
+    
+    "python manage.py migrate"
     
