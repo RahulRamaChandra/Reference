@@ -24,3 +24,5 @@ To start a new application
     
     "python manage.py migrate"
     
+    "python manage.py makemigrations"
+    
