@@ -26,3 +26,7 @@ To start a new application
     
     "python manage.py makemigrations"
     
+    "python manage.py sqlmigrate polls 001"
+    
+    "python manage.py shell"
+    
